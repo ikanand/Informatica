@@ -1,0 +1,21 @@
+{
+
+"credentials" : {
+  "username": "dnara@informatica.com",
+  "password": "Infa@12345"
+				},
+
+"operations" : {
+	"createprofile": "yes",
+	"runprofiles"  : "yes",
+	"notifications" : "yes"
+	
+				},
+"source" : {
+	"type" : "ORACLE"
+	"SCHEMA" : "/"
+			}
+				
+}
+
+
